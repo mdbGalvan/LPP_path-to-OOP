@@ -1,0 +1,8 @@
+
+  # Backup Files
+*.swp
+*~
+
+  # Others: test
+koans/
+
