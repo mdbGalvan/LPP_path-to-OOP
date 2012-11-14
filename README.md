@@ -23,9 +23,12 @@
   Resuelva los koans en:
 
   about_class_methods.rb
+
   about_classes.rb
 
 
   Cuando tenga las respuestas a todas las preguntas de estos cuatro tópicos, deje la dirección de su repositorio.
+
+  # ruby path_to_enlightenment.rb
 
 
