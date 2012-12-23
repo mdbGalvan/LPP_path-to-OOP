@@ -16,11 +16,11 @@
 >* Cree un proyecto en `github` con ellos.  
 * Resuelva los koans en:  
 
-  about_class_methods.rb  
-  about_classes.rb
+	about_class_methods.rb  
+	about_classes.rb
 
-* Cuando tenga las respuestas a todas las preguntas de estos dos tópicos, deje la dirección de su repositorio.  
+>* Cuando tenga las respuestas a todas las preguntas de estos dos tópicos, deje la dirección de su repositorio.  
   
-  # ruby path_to_enlightenment.rb  
+	ruby path_to_enlightenment.rb  
 
 
